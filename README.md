@@ -4,7 +4,7 @@
 
 -📫 How to reach me *oguzhanmavii98@gmail.com*
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UC0sWMgurJhGw4g328xG9gUA)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oguzhanmavii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UC0sWMgurJhGw4g328xG9gUA)  
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanmavii&show_icons=true)  
